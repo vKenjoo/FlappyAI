@@ -282,7 +282,7 @@ def run(config_path):
     stats = neat.StatisticsReporter()
     p.add_reporter(stats)
 
-    winner = p.run(main, 50)
+    # winner = p.run(main, 50)
     # If 'winner' is not used, consider removing it to avoid the warning
 
 
