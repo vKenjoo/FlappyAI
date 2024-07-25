@@ -1,11 +1,11 @@
-AI Flappy Bird Game
-This is my first time implementing neural networks using NEAT (NeuroEvolution of Augmenting Topologies) and AI. The project is an implementation of the Flappy Bird game using Python's Pygame library, enhanced with an AI that learns to play the game using the NEAT algorithm. 
+#AI Flappy Bird Game
+This project showcases an implementation of the Flappy Bird game using Python's Pygame library, enhanced with an AI that learns to play the game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 
 Features
-Classic Flappy Bird gameplay.
-AI learns to play using NEAT.
-Visual display of the NEAT algorithm in action.
-Configurable game and NEAT parameters.
+Classic Flappy Bird Gameplay: Enjoy the classic mechanics of the Flappy Bird game.
+AI Learning with NEAT: Watch as the AI learns to play the game using the NEAT algorithm.
+Visual Display: See the NEAT algorithm in action with visual representations.
+Configurable Parameters: Adjust game and NEAT algorithm parameters to experiment with the AI's learning process.
 Requirements
 Python 3.6+
 Pygame
@@ -29,4 +29,4 @@ bash
 Copy code
 python flappy_bird.py
 Configuration
-The configuration for the NEAT algorithm can be found in the config-feedforward.txt file. To experiment with the AI's learning process, you can adjust parameters such as population size, mutation rates, and more.
+The configuration for the NEAT algorithm can be found in the config-feedforward.txt file. You can adjust parameters such as population size, mutation rates, and more to experiment with the AI's learning process.
