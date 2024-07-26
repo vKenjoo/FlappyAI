@@ -33,3 +33,4 @@ python flappy_bird.py
 ## Configuration
 The configuration for the NEAT algorithm can be found in the ***config-feedforward.txt*** file. You can adjust parameters such as population size, mutation rates, and more to experiment with the AI's learning process.
 
+test
